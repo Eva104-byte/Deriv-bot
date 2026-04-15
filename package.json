@@ -1,0 +1,15 @@
+{
+  "name": "deriv-differs-bot",
+  "version": "1.0.0",
+  "description": "Deriv Digit Differs & Even/Odd trading bot — Railway deployment",
+  "main": "deriv_differs_bot.js",
+  "scripts": {
+    "start": "node deriv_differs_bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
